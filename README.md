@@ -34,11 +34,11 @@ API for the doctors of a Hospital which has beenallocated by the govt for testin
     5. /patients/:id/all_reports → List all the reports of a patient oldest to latest
     6. /reports/:status  → List all the reports of all the patients filtered by a specific status
     
-    # ScreenShots
-    # Doctor Registration
+   # ScreenShots
+   # Doctor Registration
     
-    ![hapi1](https://user-images.githubusercontent.com/36906896/95687617-5c2ff400-0c22-11eb-9e7a-c132eb95aa92.jpg)
+   ![hapi1](https://user-images.githubusercontent.com/36906896/95687617-5c2ff400-0c22-11eb-9e7a-c132eb95aa92.jpg)
 
-    # Doctor Login
+   # Doctor Login
     
-    ![hapi2](https://user-images.githubusercontent.com/36906896/95687619-5df9b780-0c22-11eb-9268-c8f3875844e1.jpg)
+   ![hapi2](https://user-images.githubusercontent.com/36906896/95687619-5df9b780-0c22-11eb-9268-c8f3875844e1.jpg)
